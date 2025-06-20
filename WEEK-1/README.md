@@ -89,7 +89,7 @@ Each subfolder contains labeled images corresponding to its class name.
 
 ## 📊 Sample Output
 
-- Final Accuracy: *(To be filled from notebook output)*
+- Final Accuracy: *95.3*
 - Output has been attached within the file
 
 ---
